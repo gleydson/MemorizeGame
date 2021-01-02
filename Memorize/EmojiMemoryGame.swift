@@ -5,7 +5,7 @@
 //  Created by Gleydson Rodrigues on 01/01/21.
 //
 
-import SwiftUI
+import Foundation
 
 
 class EmojiMemoryGame: ObservableObject {
