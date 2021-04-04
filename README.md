@@ -4,8 +4,6 @@
   <p>CS193p - Developing Apps for iOS</p>
 </div>
 
-<br />
-
 ### The lectures for the Spring 2020 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI). The following contents were covered in this course:
 
 - Intro to SwiftUI
