@@ -15,4 +15,4 @@
 
 #### This project aims to apply some basic concepts about SwiftUI for learning, the following is an example of how the application works:
 <br />
-<img src="example.gif" style="width: 300px;height:100%" />
+<img src="example.gif" style="width: 250px;height:100%" />
