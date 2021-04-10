@@ -4,7 +4,7 @@
   <p>CS193p - Developing Apps for iOS</p>
 </div>
 
-### The lectures for the Spring 2020 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI). The following contents were covered in this course:
+### The lectures for the Spring 2020 version of Stanford University's course CS193p (Developing Applications for iOS using SwiftUI). The following contents covered in this course that were applied in this project:
 
 - Intro to SwiftUI
 - MVVM and the Swift Type System
@@ -12,12 +12,7 @@
 - Enums and Optionals
 - ViewBuilder Shape ViewModifier
 - Animation
-- Multithreading
-- Gestures JSON
-- Data Flow
-- Modal Presentation and Navigation
-- Enroute Picker
-- Code Data
-- Persistence
-- UIKit Integration
 
+#### This project aims to apply some basic concepts about SwiftUI for learning, the following is an example of how the application works:
+<br />
+<img src="example.gif" style="width: 300px;height:100%" />
